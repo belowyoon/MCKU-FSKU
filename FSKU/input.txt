@@ -1,0 +1,31 @@
+Aa w 20
+KU w 500
+KU w 500
+KU w 500
+KU w 500
+BB w 8192
+Aa w 5
+Cc w 513
+Cc w 511
+Ab w 1
+Ac w 1
+Ad w 1
+Ae w 1
+Af w 1
+Ag w 1
+Ah w 1
+Ai w 1
+Aj w 1
+Ak w 1
+Al w 1
+Am w 1
+An w 1
+Ao w 1
+Ap w 1
+Aq w 1
+Ar w 1
+Az w 1
+Ab d
+Ac d
+Cc r 2000
+CC d
